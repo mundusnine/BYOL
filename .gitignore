@@ -1,0 +1,5 @@
+.vscode
+build
+Deployment/**
+!Deployment/tests
+!Deployment/tests/**
